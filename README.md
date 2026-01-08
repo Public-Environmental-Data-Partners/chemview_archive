@@ -1,6 +1,6 @@
-# Template
+# chemview_archive
 
-This repo is a template for PEDP repositories containing original PEDP projects (as opposed to forked/cloned/archived projects). Replace this paragraph with a description of the repo.
+This repo is intended to hold scripts used to download [U.S. EPA ChemView](https://chemview.epa.gov/chemview/) data files. The data itself, which is huge, should never be stored in this repository. 
 
 # How to start contributing to this repo
 * Instructions go here
